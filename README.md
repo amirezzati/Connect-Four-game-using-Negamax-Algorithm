@@ -22,5 +22,7 @@ You can install those by following commands:
     
 Amir mohmmad Ezzati   
 Seyed Amir Kasaei   
-Mohammadreza Barhamneh Roshangar   
+Mohammadreza Barhamneh Roshangar  
+
+**This was a teamwork project that we wrote as final project of Artificial Intelligence course at University of Guilan in Jan 2022.**
     
