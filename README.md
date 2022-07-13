@@ -18,7 +18,7 @@ You can install those by following commands:
     pip install pygame
 
     
-## Team members
+# Team members
     
 Amir mohmmad Ezzati   
 Seyed Amir Kasaei   
