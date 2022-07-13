@@ -24,5 +24,5 @@ Amir mohmmad Ezzati
 Seyed Amir Kasaei   
 Mohammadreza Barhamneh Roshangar  
 
-**This was a teamwork project that we wrote as final project of Artificial Intelligence course at University of Guilan in Jan 2022.**
+**This was a teamwork that we wrote as final project of Artificial Intelligence course at University of Guilan in Jan 2022.**
     
